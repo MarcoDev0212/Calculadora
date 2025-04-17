@@ -1,4 +1,4 @@
-# Calculadora que Soma
+# Calculadora 
 
 import tkinter as tk
 
